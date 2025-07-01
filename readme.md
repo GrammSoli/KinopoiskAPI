@@ -1,6 +1,3 @@
-🫡 Принято, босс. Держи чёткий и лаконичный `README.md`, как будто ты выкладываешь pet-проект на GitHub. Всё по красоте:
-
----
 
 ````markdown
 # 🎬 Kinopoisk Movie Search API Wrapper (Golang)
@@ -33,8 +30,8 @@
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/yourname/kinopoisk-api-wrapper.git
-cd kinopoisk-api-wrapper
+git clone https://github.com/yourname/kinopoiskAPI.git
+cd kinopoiskAPI
 go mod tidy
 ````
 
@@ -48,7 +45,7 @@ go mod tidy
 KINOPOISK_API_KEY=your_api_key_here
 ```
 
-API-ключ можно получить на [https://kinopoisk.dev](https://kinopoisk.dev) после входа через GitHub.
+API-ключ можно получить на [https://kinopoisk.dev](https://kinopoisk.dev).
 
 ---
 
@@ -82,7 +79,7 @@ GET http://localhost:3000/search?title=Брат
 
 ## 🧠 Автор
 
-GrammSoli > Разработано в рамках pet-проекта с целью изучения работы с внешними API и Go в вебе.
+GrammSoli - Разработано в рамках pet-проекта с целью изучения работы с внешними API и Go в вебе.
 
 ---
 
